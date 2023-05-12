@@ -1,6 +1,6 @@
 # mams_app
 
-A FLutter based Bus Reservation Application
+A Flutter based Bus Reservation Application
 
 ## Getting Started
 
